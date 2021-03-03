@@ -1,0 +1,101 @@
+[
+	{
+		"id": 1,
+		"room_id": 1,
+		"message": "Во сколько сегодня конференция?",
+		"user": {
+			"id": 1,
+			"username": "User_1"
+		}
+	},
+	{
+		"id": 2,
+		"room_id": 1,
+		"message": "Или она вчера была??",
+		"user": {
+			"id": 1,
+			"username": "User_1"
+		}
+	},
+	{
+		"id": 3,
+		"room_id": 1,
+		"message": "Нет, сегодня в 18:00 начало",
+		"user": {
+			"id": 3,
+			"username": "User_3"
+		}
+	},
+	{
+		"id": 4,
+		"room_id": 1,
+		"message": "Не в 18:00, а в 18:30",
+		"user": {
+			"id": 2,
+			"username": "User_2"
+		}
+	},
+	{
+		"id": 6,
+		"room_id": 2,
+		"message": "Кто со мной на обед?",
+		"user": {
+			"id": 5,
+			"username": "User_5"
+		}
+	},
+	{
+		"id": 7,
+		"room_id": 2,
+		"message": "Я с тобой",
+		"user": {
+			"id": 1,
+			"username": "User_2"
+		}
+	},
+	{
+		"id": 8,
+		"room_id": 2,
+		"message": "+",
+		"user": {
+			"id": 3,
+			"username": "User_3"
+		}
+	},
+	{
+		"id": 9,
+		"room_id": 2,
+		"message": "У меня с собой",
+		"user": {
+			"id": 4,
+			"username": "User_4"
+		}
+	},
+	{
+		"id": 10,
+		"room_id": 2,
+		"message": "Ок, тогда через 10 минут выходим",
+		"user": {
+			"id": 5,
+			"username": "User_5"
+		}
+	},
+	{
+		"id": 11,
+		"room_id": 2,
+		"message": "Договорились",
+		"user": {
+			"id": 4,
+			"username": "User_4"
+		}
+	},
+	{
+		"id": 12,
+		"room_id": 2,
+		"message": "А вы куда пойдете?",
+		"user": {
+			"id": 4,
+			"username": "User_4"
+		}
+	}
+]
